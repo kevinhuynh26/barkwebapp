@@ -40,7 +40,7 @@
 
 [] git-repo setup
 
-# vue-firstapp
+
 
 ## Project setup
 ```

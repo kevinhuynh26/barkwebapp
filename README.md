@@ -2,37 +2,37 @@
 [] landing page(?)
 
 [] profile page(?)
-    [] search profile name/id
-    [] getpostsbyuser
+----[] search profile name/id
+----[] getpostsbyuser
 
 [] registration
-    [] email validation(?)
-    [] username business rules
+----[] email validation(?)
+----[] username business rules
 
 [] log-in
-    [] password encryption
+----[] password encryption
 
 [] post-form CREATE (post)
-    [] body sanitization
-    [] post request
+----[] body sanitization
+----[] post request
 
 [] post-form READ (get)
-    [x] getall
-    [x] sorted by date/time
-    [] getbyuser
-    [] getbylikes
+----[x] getall
+----[x] sorted by date/time
+----[] getbyuser
+----[] getbylikes
 
 [] post-form UPDATE (put)
-    [] edit functionality
-    [] pop-down or edit directly (research)
+----[] edit functionality
+----[] pop-down or edit directly (research)
 
 [] post-form DELETE
-    [] remove post if owned (change button to displayed if post is owned by user)
+----[] remove post if owned (change button to displayed if post is owned by user)
 
 
 [] post "likes"
-    [] research streaming likes real time
-    [] save post history
+----[] research streaming likes real time
+----[] save post history
 
 [] user account db
 

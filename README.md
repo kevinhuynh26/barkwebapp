@@ -38,8 +38,8 @@
 
 [] one-to-many user to post implementation
 
-[] git-repo setup
-
+[x] git-repo setup
+----[x] git-repo synced from laptop
 
 
 ## Project setup
